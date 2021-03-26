@@ -1,11 +1,20 @@
 h1 {
-    color: rgb(30, 30, 30);
+    color: rgb(252, 245, 222);
+	font-size: 50px;
+}
+
+h2 {
+    color: rgb(252, 245, 222);
+}
+
+p {
+    color: rgb(252, 245, 222);
 }
 
 body {
     background-color: rgb(252, 245, 222);
     background-image: url(https://images.unsplash.com/photo-1494253188410-ff0cdea5499e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2550&q=80);
-    background-size: 90%;
+    background-size: 100%;
 }
 
 a {
@@ -15,4 +24,8 @@ a {
 
 button {
     background-color: rgb(30, 30, 30)
+}
+
+body {
+	
 }
